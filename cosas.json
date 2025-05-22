@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Zapatillas Running Ultra",
+    "price": 89.99,
+    "description": "Amortiguación reactiva para corredores, tejido transpirable y suela antideslizante.",
+    "image": "https://ejemplo.com/zapatilla1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Botines de Cuero Vintage",
+    "price": 120.50,
+    "description": "Cuero genuino envejecido, ideal para looks casuales o elegantes.",
+    "image": "https://ejemplo.com/botin2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sandalias Trekking",
+    "price": 45.99,
+    "description": "Resistentes al agua con soporte ergonómico para senderismo.",
+    "image": "https://ejemplo.com/sandalia3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Zapatos Formales Oxford",
+    "price": 135.00,
+    "description": "Estilo clásico en piel lustrada, perfecto para ocasiones especiales.",
+    "image": "https://ejemplo.com/oxford4.jpg"
+  }
+]
