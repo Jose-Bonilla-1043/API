@@ -1,51 +1,74 @@
-[
-  {
-    "id": 1,
-    "title": "Zapatillas Running Ultra",
-    "price": 89.99,
-    "description": "Amortiguación reactiva para corredores, tejido transpirable y suela antideslizante.",
-    "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap1.avif"
-  },
-  {
-    "id": 2,
-    "title": "Botines de Cuero Vintage",
-    "price": 120.50,
-    "description": "Cuero genuino envejecido, ideal para looks casuales o elegantes.",
-    "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap2.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Sandalias Trekking",
-    "price": 45.99,
-    "description": "Resistentes al agua con soporte ergonómico para senderismo.",
-    "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap3.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Mocasines Clásicos",
-    "price": 79.90,
-    "description": "Elegancia y comodidad en piel suave, ideales para el día a día.",
-    "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap4.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Zapatos de Vestir Negros",
-    "price": 110.00,
-    "description": "Diseño sofisticado en piel lisa, perfectos para eventos formales.",
-    "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap5.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Derby Marrón Claro",
-    "price": 95.50,
-    "description": "Versátiles y modernos, combinan con trajes o jeans.",
-    "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap6.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Zapatos Oxford Doble Hebilla",
-    "price": 125.00,
-    "description": "Estilo retro con detalles en metal, para un look distinguido.",
-    "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap7.jpg"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Zapatillas Running Ultra",
+      "description": "Amortiguación reactiva para corredores, tejido transpirable y suela antideslizante.",
+      "category": "Deportes",
+      "price": 89.99,
+      "discountPercentage": 15.5,
+      "rating": 4.7,
+      "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap1.avif"
+    },
+    {
+      "id": 2,
+      "title": "Botines de Cuero Vintage",
+      "description": "Cuero genuino envejecido, ideal para looks casuales o elegantes.",
+      "category": "Moda",
+      "price": 120.50,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Sandalias Trekking",
+      "description": "Resistentes al agua con soporte ergonómico para senderismo.",
+      "category": "Aventura",
+      "price": 45.99,
+      "discountPercentage": 5.0,
+      "rating": 4.2,
+      "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mocasines Clásicos",
+      "description": "Elegancia y comodidad en piel suave, ideales para el día a día.",
+      "category": "Moda",
+      "price": 79.90,
+      "discountPercentage": 8.0,
+      "rating": 4.3,
+      "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Zapatos de Vestir Negros",
+      "description": "Diseño sofisticado en piel lisa, perfectos para eventos formales.",
+      "category": "Moda",
+      "price": 110.00,
+      "discountPercentage": 12.0,
+      "rating": 4.6,
+      "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Derby Marrón Claro",
+      "description": "Versátiles y modernos, combinan con trajes o jeans.",
+      "category": "Moda",
+      "price": 95.50,
+      "discountPercentage": 7.5,
+      "rating": 4.4,
+      "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Zapatos Oxford Doble Hebilla",
+      "description": "Estilo retro con detalles en metal, para un look distinguido.",
+      "category": "Moda",
+      "price": 125.00,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "image": "https://raw.githubusercontent.com/Jose-Bonilla-1043/imagenes_act2/refs/heads/main/zap7.jpg"
+    }
+  ]
+}
